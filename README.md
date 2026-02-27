@@ -30,25 +30,6 @@ Cohort retention falls to ~0.5% by month 1 across all 2017 cohorts, and churn ra
 
 ---
 
-## Visualizations
-
-### KPI Dashboard
-![KPI Dashboard](images/fig1_kpi_dashboard.png)
-
-### Cohort Retention Heatmap
-![Cohort Retention](images/fig2_cohort_heatmap.png)
-
-### Churn Analysis
-![Churn Analysis](images/fig3_churn_analysis.png)
-
-### Monthly Revenue Trend
-![Revenue Trend](images/fig4_revenue_trend.png)
-
-### Engagement Funnel & Top Categories
-![Funnel and Categories](images/fig5_funnel_categories.png)
-
-### Satisfaction vs. Churn
-![Satisfaction and Churn](images/fig6_satisfaction_churn.png)
 
 ---
 
@@ -68,12 +49,6 @@ ecommerce-retention-analysis/
 ├── customer_engagement_retention.py                # Analysis script
 ├── visualizations.py                               # Chart generation
 ├── images/                                         # Output charts
-│   ├── fig1_kpi_dashboard.png
-│   ├── fig2_cohort_heatmap.png
-│   ├── fig3_churn_analysis.png
-│   ├── fig4_revenue_trend.png
-│   ├── fig5_funnel_categories.png
-│   └── fig6_satisfaction_churn.png
 └── README.md
 ```
 
@@ -127,3 +102,6 @@ jupyter notebook Customer_Engagement_Retention_Analytics.ipynb
 ---
 
 *Dataset: [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) via Kaggle*
+
+If you made it this far, make sure to send a hi on Linkedin! https://www.linkedin.com/in/miriamgarciag/ 
+Se você chegou até aqui, não se esqueça de me mandar um "oi" pelo LinkedIn :)
