@@ -105,4 +105,7 @@ jupyter notebook Customer_Engagement_Retention_Analytics.ipynb
 
 If you made it this far, make sure to send a hi on Linkedin! https://www.linkedin.com/in/miriamgarciag/ 
 
+Si llegaste hasta aca mandame un "hola" en Linkedin. 
+
 Se você chegou até aqui, não se esqueça de me mandar um "oi" pelo LinkedIn :)
+
