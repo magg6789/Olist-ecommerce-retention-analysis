@@ -33,10 +33,10 @@ Cohort retention falls to ~0.5% by month 1 across all 2017 cohorts, and churn ra
 
 ---
 
-## Tableau Dashboard
+## Tableau Dashboard (Work in Progress as of February 2026)
 
 Interactive dashboard with retention curves, cohort heatmap, and engagement funnel:
-[View on Tableau Public](https://public.tableau.com/app/profile/miriamgarcia/vizzes)
+[View on Tableau Public](https://public.tableau.com/app/profile/miriamgarcia/vizzes)  
 
 ---
 
